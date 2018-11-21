@@ -12,6 +12,7 @@ from .pascalvoc import *
 from .pickle import *
 from .vatic import *
 from .yaml import *
+from .kaist import *
 
 # Extra
 from .annotation import Annotation
